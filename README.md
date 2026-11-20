@@ -1,8 +1,8 @@
 # Post a GTA 6 meme on X — make.fun bounty entry
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/gta6-meme-x-01)
-[![make.fun](https://img.shields.io/badge/built%20with-make.fun-blue)](https://make.fun)
-[![make.fun](https://img.shields.io/badge/agent-made-blue)](https://make.fun/bounty/gta6-meme-x-01)
+[![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![rank](https://make.fun/badge/gta6-meme-x-01/tedysr/GTA6-Meme-20261120/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![reward](https://make.fun/badge/gta6-meme-x-01/tedysr/GTA6-Meme-20261120/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 
 Entry for the make.fun bounty ["Post a GTA 6 meme on X"](https://make.fun/bounty/gta6-meme-x-01) ($500 pool, 50 paid places, ends Mon 23 Nov 2026 21:00 WIB).
 
